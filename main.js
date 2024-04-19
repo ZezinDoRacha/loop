@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("VOCE APOIA A BROTHERAGEM");
 
     
-    if (respostaTime.toLowerCase() === "sim" "claro" ) {
+    if (respostaTime.toLowerCase() === "sim") {
       alert("Isso mesmo!!!!!!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
