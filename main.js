@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("VOCE APOIA A BROTHERAGEM");
+    var respostaTime = prompt("VOCE JOGA ALGUM JOGO ?");
 
     
     if (respostaTime.toLowerCase() === "sim") {
